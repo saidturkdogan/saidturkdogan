@@ -9,4 +9,4 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-3B57C9?style=flat-quare&labelColor=3B57C9&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/saidturkdogan/)
   [![Hackerrank Badge](https://img.shields.io/badge/-HackerRank-000000?style=flat-quare&labelColor=28C623&logo=HackerRank&logoColor=black&link=link)](https://www.hackerrank.com/saidcemalturkdo1)
-[![LeetCode user saidturkdogan](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaidturkdogan&logo=leetcode&logoColor=yellow)](https://leetcode.com/saidturkdogan/)
+[![LeetCode user saidturkdogan](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaidturkdogan&logo=leetcode&logoColor=yellow)](https://leetcode.com/saidturkdogan/)
