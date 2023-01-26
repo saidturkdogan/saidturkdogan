@@ -7,7 +7,7 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=saidturkdogan&show_icons=true&theme=dark)
               
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidturkdogan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidturkdogan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-3B57C9?style=flat-quare&labelColor=3B57C9&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/saidturkdogan/)
   [![Hackerrank Badge](https://img.shields.io/badge/-HackerRank-000000?style=flat-quare&labelColor=28C623&logo=HackerRank&logoColor=black&link=link)](https://www.hackerrank.com/saidcemalturkdo1)
