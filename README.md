@@ -30,6 +30,12 @@
 ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) 
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 
+
+## 🔥   My Stats :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saidturkdogan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=saidturkdogan&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 <!--
 **saidturkdogan/saidturkdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
