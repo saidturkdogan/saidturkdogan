@@ -1,4 +1,4 @@
-## [TURKDOGAN](https://turkdogan.software/) ⚡️
+## [https://turkdogan.software/](https://turkdogan.software/) ⚡️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=25&pause=1000&color=F7D33F&background=FF000000&width=435&lines=Hello;I'm+Said+T%C3%BCrkdo%C4%9Fan;Backend+Developer)](https://git.io/typing-svg)
 
